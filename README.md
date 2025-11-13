@@ -207,17 +207,14 @@ Include:
 - Decomposed prompts: Logical flow and comprehensive coverage
 - Framework-based prompts: Analytical rigor
 - Modular approaches: Usability and maintenance
-
 ### Audience Adaptation
 - Semantic filtering: Relevance improvement
 - Context specification: Irrelevance elimination
 - Stakeholder identification: Comprehensive perspectives
-
 ### Creative Enhancement
 - Constraints enhance creativity
 - Genre conventions provide structured freedom
 - Multi-modal thinking enriches output
-
 ### Professional Application
 - Business frameworks ensure strategic value
 - Quantifiable outcomes increase credibility
@@ -227,5 +224,8 @@ Include:
 
 ![image](https://github.com/user-attachments/assets/dc4f2bde-78cc-4c50-b49e-d2b59923b19d)
 
+# Conclusion
+Different prompting techniques significantly enhance the quality, structure, and purpose alignment of AI-generated content. By strategically choosing between query decomposition, decision-making, semantic filtering, and role-based approaches, content creators can produce targeted, audience-specific outputs on themes such as Sustainable Smart Cities. These prompt patterns enable a blend of depth, creativity, and precision across reports, case studies, articles, and even visual storytelling formats.
+
 # Result :  
-The corresponding prompt executed successfully.
+Thus, the experiment showed that using diverse prompt patterns greatly enhanced the quality, clarity, and relevance of AI-generated content such as reports, articles, and case studies on Sustainable Smart Cities. Structured prompts led to more coherent, audience-specific, and insightful outputs.
